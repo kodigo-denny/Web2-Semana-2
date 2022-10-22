@@ -1,0 +1,36 @@
+/*Seleccion por elemento*/
+body{
+    background-color: darkgray;
+    background-image: url("../img/kodigo-mac.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+table{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+
+p{
+    background-color: beige;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#texto{
+    background-color: brown;
+}
+.parrafo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:darkolivegreen;
+    color: white;
+}
+.parrafo2{
+    color: black;
+}
+
+
+h1{
+    text-align: center;
+    color: yellow;
+}
